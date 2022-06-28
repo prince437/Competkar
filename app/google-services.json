@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749070163269",
+    "project_id": "competekar-33e11",
+    "storage_bucket": "competekar-33e11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749070163269:android:8b45c7fe87af62e5acf22c",
+        "android_client_info": {
+          "package_name": "com.example.competekar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749070163269-k8auc3i3561ph9lqb3jctenbnfjc1iko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeXVrWBsr4yS7cd3wqVVQ_72Vg-kaZO_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749070163269-k8auc3i3561ph9lqb3jctenbnfjc1iko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
